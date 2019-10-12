@@ -1,5 +1,2 @@
-# Java
-
-## A hello world project in java 
-
-this ia amazing don't you think
+ANime is the most essential thing in your life.
+Most important anime to watch is Naruto.
